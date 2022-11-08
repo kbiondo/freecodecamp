@@ -2,4 +2,4 @@
 
 ## Yay Beans
 
-https://www.freecodecamp.org/news/python-programming-course/
+'https://www.freecodecamp.org/news/python-programming-course/'
